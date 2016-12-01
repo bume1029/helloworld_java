@@ -1,4 +1,0 @@
-<jboss-web>
-    <context-root>/session</context-root>
-</jboss-web>
-

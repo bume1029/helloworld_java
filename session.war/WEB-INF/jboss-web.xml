@@ -1,5 +1,5 @@
 <jboss-web>
-    <context-root>/session</context-root>
+    <context-root>/</context-root>
 <!--    
     <security-domain>java:/jaas/jmx-console</security-domain>
 -->
